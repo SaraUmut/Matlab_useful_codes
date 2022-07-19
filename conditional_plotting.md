@@ -58,13 +58,3 @@ line3(indx2)=NaN;
 figure
 plot(x,line1,'r',x,line2,'g',x,line3,'bl');
 ```
-
-
-
-
-
-
-
-
-
-
